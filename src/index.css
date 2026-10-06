@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f4f6f8;
+  background: #ffffff;
 }
 
 .app {
@@ -14,7 +14,7 @@ body {
 
 header {
   background: #222;
-  color: white;
+  color: rgb(253, 235, 235);
   padding: 20px;
   text-align: center;
 }
@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: rgb(253, 214, 214);
   text-decoration: none;
   font-weight: bold;
 }
@@ -46,7 +46,7 @@ main {
 .page {
   max-width: 800px;
   margin: auto;
-  background: white;
+  background: rgb(19, 17, 17);
   padding: 40px;
   border-radius: 10px;
   text-align: center;
